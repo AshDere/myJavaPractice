@@ -1,0 +1,5 @@
+function add{
+ var a=5, b=4, c;
+ c= a+b;
+ print(c);
+}
